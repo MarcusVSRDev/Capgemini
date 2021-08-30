@@ -9,3 +9,6 @@ Aulas Trabalhando com Branches no Github (4 Horas) Inicializado dia 28/08/2021 :
 Aulas Dominando IDEs Java Inicializado dia 29/08/2021 (4 Horas) : Finalizado 29/08/2021
 
 Aulas Desenvolvimento básico em Java (9 Horas) Inicializado dia 29/08/2021 : Finalizado 29/08/2021
+
+Aulas Desenvolvimento avançado em Java (8 Horas) Inicializado dia 29/08/2021:
+Em andamento
