@@ -14,4 +14,6 @@ Aulas Desenvolvimento avançado em Java (8 Horas) Inicializado dia 29/08/2021:
 Finalizado 01/09/2021
 
 Aulas Introdução a orientação a objetos com Java (2 Horas) Inicializado dia 01/08/2021: 
-Em Andamento
+Finalizado 04/08/2021
+
+Aulas Java - Trabalhando com Collections (6 Horas) Inicializado dia 04/08/2021: Em andamento
