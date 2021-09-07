@@ -19,7 +19,7 @@ classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como
 
 import java.util.*;
 
-public class ExercicioProposto2 {
+public class ExerciciosPropostos2 {
     public static void main(String[] args) {
 
         Scanner texto = new Scanner(System.in);

@@ -12,7 +12,7 @@ mostre todas as temperaturas acima desta média, e em que
 mês elas ocorreram (mostrar o mês por extenso: 1 – Janeiro, 2
 – Fevereiro e etc).
  */
-public class ExerciciosProposto1 {
+class ExerciciosProposto1 {
     public static void main(String[] args) {
         List<TemperaturaMensal> temperatura = new ArrayList<>(){{
             add(new TemperaturaMensal("1 - Janeiro ", 28.1));
