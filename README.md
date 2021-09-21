@@ -26,5 +26,7 @@ Desafios Desafios numéricos em Java (1 Hora) Inicializado dia 07/09/2021:
 Finalizado 07/09/2021
 
 Aulas Estrutura de dados em Java (10 Horas) Inicializado dia 09/09/2021: 
-Em andamento
+Não finalizado!
+
+# Bootcamp não finalizado. Terminado dia 21/09/2021
 
