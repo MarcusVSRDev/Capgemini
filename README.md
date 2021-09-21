@@ -1,4 +1,4 @@
-# Capgemini (Bootcamp iniciado 28/08/2021)
+# Capgemini (Bootcamp iniciado 28/08/2021) (Carga Horária 117 horas)
 
 Aulas Lógica de Programação Essencial Inicializado (4 Horas) dia 28/08/2021: Finalizado 28/08/2021
 
@@ -28,5 +28,5 @@ Finalizado 07/09/2021
 Aulas Estrutura de dados em Java (10 Horas) Inicializado dia 09/09/2021: 
 Não finalizado!
 
-# Bootcamp não finalizado. Terminado dia 21/09/2021
+# Bootcamp não finalizado. Terminado dia 21/09/2021 (Feito 46 Horas)
 
